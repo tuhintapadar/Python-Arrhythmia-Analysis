@@ -1,0 +1,280 @@
+Age
+Sex
+Height
+Weight
+QRS Duration
+P-R interval
+Q-T interval
+T interval
+P interval
+QRS
+T
+P
+QRST
+J
+Heart rate bpm
+DI_WW_Q wave
+DI_WW_R wave
+DI_WW_S wave
+DI_WW_R' Wave
+DI_WW_S' Wave
+DI_WW_Deflections
+DI_WW_Ragged R wave
+DI_WW_Diphasic Deriviation R
+DI_WW_Ragged P wave
+DI_WW_Diphasic Deriviation P
+DI_WW_Ragged T Wave
+DI_WW_Diphasic Derivation T
+DII_WW_Q wave
+DII_WW_R wave
+DII_WW_S wave
+DII_WW_R' Wave
+DII_WW_S' Wave
+DII_WW_Deflections
+DII_WW_Ragged R wave
+DII_WW_Diphasic Deriviation R
+DII_WW_Ragged P wave
+DII_WW_Diphasic Deriviation P
+DII_WW_Ragged T Wave
+DII_WW_Diphasic Derivation T
+DIII_WW_Q wave
+DIII_WW_R wave
+DIII_WW_S wave
+DIII_WW_R' Wave
+DIII_WW_S' Wave
+DIII_WW_Deflections
+DIII_WW_Ragged R wave
+DIII_WW_Diphasic Deriviation R
+DIII_WW_Ragged P wave
+DIII_WW_Diphasic Deriviation P
+DIII_WW_Ragged T Wave
+DIII_WW_Diphasic Derivation T
+AVR_WW_Q wave
+AVR_WW_R wave
+AVR_WW_S wave
+AVR_WW_R' Wave
+AVR_WW_S' Wave
+AVR_WW_Deflections
+AVR_WW_Ragged R wave
+AVR_WW_Diphasic Deriviation R
+AVR_WW_Ragged P wave
+AVR_WW_Diphasic Deriviation P
+AVR_WW_Ragged T Wave
+AVR_WW_Diphasic Derivation T
+AVL_WW_Q wave
+AVL_WW_R wave
+AVL_WW_S wave
+AVL_WW_R' Wave
+AVL_WW_S' Wave
+AVL_WW_Deflections
+AVL_WW_Ragged R wave
+AVL_WW_Diphasic Deriviation R
+AVL_WW_Ragged P wave
+AVL_WW_Diphasic Deriviation P
+AVL_WW_Ragged T Wave
+AVL_WW_Diphasic Derivation T
+AVF_WW_Q wave
+AVF_WW_R wave
+AVF_WW_S wave
+AVF_WW_R' Wave
+AVF_WW_S' Wave
+AVF_WW_Deflections
+AVF_WW_Ragged R wave
+AVF_WW_Diphasic Deriviation R
+AVF_WW_Ragged P wave
+AVF_WW_Diphasic Deriviation P
+AVF_WW_Ragged T Wave
+AVF_WW_Diphasic Derivation T
+V1_WW_Q wave
+V1_WW_R wave
+V1_WW_S wave
+V1_WW_R' Wave
+V1_WW_S' Wave
+V1_WW_Deflections
+V1_WW_Ragged R wave
+V1_WW_Diphasic Deriviation R
+V1_WW_Ragged P wave
+V1_WW_Diphasic Deriviation P
+V1_WW_Ragged T Wave
+V1_WW_Diphasic Derivation T
+V2_WW_Q wave
+V2_WW_R wave
+V2_WW_S wave
+V2_WW_R' Wave
+V2_WW_S' Wave
+V2_WW_Deflections
+V2_WW_Ragged R wave
+V2_WW_Diphasic Deriviation R
+V2_WW_Ragged P wave
+V2_WW_Diphasic Deriviation P
+V2_WW_Ragged T Wave
+V2_WW_Diphasic Derivation T
+V3_WW_Q wave
+V3_WW_R wave
+V3_WW_S wave
+V3_WW_R' Wave
+V3_WW_S' Wave
+V3_WW_Deflections
+V3_WW_Ragged R wave
+V3_WW_Diphasic Deriviation R
+V3_WW_Ragged P wave
+V3_WW_Diphasic Deriviation P
+V3_WW_Ragged T Wave
+V3_WW_Diphasic Derivation T
+V4_WW_Q wave
+V4_WW_R wave
+V4_WW_S wave
+V4_WW_R' Wave
+V4_WW_S' Wave
+V4_WW_Deflections
+V4_WW_Ragged R wave
+V4_WW_Diphasic Deriviation R
+V4_WW_Ragged P wave
+V4_WW_Diphasic Deriviation P
+V4_WW_Ragged T Wave
+V4_WW_Diphasic Derivation T
+V5_WW_Q wave
+V5_WW_R wave
+V5_WW_S wave
+V5_WW_R' Wave
+V5_WW_S' Wave
+V5_WW_Deflections
+V5_WW_Ragged R wave
+V5_WW_Diphasic Deriviation R
+V5_WW_Ragged P wave
+V5_WW_Diphasic Deriviation P
+V5_WW_Ragged T Wave
+V5_WW_Diphasic Derivation T
+V6_WW_Q wave
+V6_WW_R wave
+V6_WW_S wave
+V6_WW_R' Wave
+V6_WW_S' Wave
+V6_WW_Deflections
+V6_WW_Ragged R wave
+V6_WW_Diphasic Deriviation R
+V6_WW_Ragged P wave
+V6_WW_Diphasic Deriviation P
+V6_WW_Ragged T Wave
+V6_WW_Diphasic Derivation T
+DI_WA_JJ Wave
+DI_WA_Q Wave
+DI_WA_R Wave
+DI_WA_S Wave
+DI_WA_R' Wave
+DI_WA_S' Wave
+DI_WA_P Wave
+DI_WA_T Wave
+DI_WA_QRSA
+DI_WA_QRSTA
+DII_WA_JJ Wave
+DII_WA_Q Wave
+DII_WA_R Wave
+DII_WA_S Wave
+DII_WA_R' Wave
+DII_WA_S' Wave
+DII_WA_P Wave
+DII_WA_T Wave
+DII_WA_QRSA
+DII_WA_QRSTA
+DIII_WA_JJ Wave
+DIII_WA_Q Wave
+DIII_WA_R Wave
+DIII_WA_S Wave
+DIII_WA_R' Wave
+DIII_WA_S' Wave
+DIII_WA_P Wave
+DIII_WA_T Wave
+DIII_WA_QRSA
+DIII_WA_QRSTA
+AVR_WA_JJ Wave
+AVR_WA_Q Wave
+AVR_WA_R Wave
+AVR_WA_S Wave
+AVR_WA_R' Wave
+AVR_WA_S' Wave
+AVR_WA_P Wave
+AVR_WA_T Wave
+AVR_WA_QRSA
+AVR_WA_QRSTA
+AVL_WA_JJ Wave
+AVL_WA_Q Wave
+AVL_WA_R Wave
+AVL_WA_S Wave
+AVL_WA_R' Wave
+AVL_WA_S' Wave
+AVL_WA_P Wave
+AVL_WA_T Wave
+AVL_WA_QRSA
+AVL_WA_QRSTA
+AVF_WA_JJ Wave
+AVF_WA_Q Wave
+AVF_WA_R Wave
+AVF_WA_S Wave
+AVF_WA_R' Wave
+AVF_WA_S' Wave
+AVF_WA_P Wave
+AVF_WA_T Wave
+AVF_WA_QRSA
+AVF_WA_QRSTA
+V1_WA_JJ Wave
+V1_WA_Q Wave
+V1_WA_R Wave
+V1_WA_S Wave
+V1_WA_R' Wave
+V1_WA_S' Wave
+V1_WA_P Wave
+V1_WA_T Wave
+V1_WA_QRSA
+V1_WA_QRSTA
+V2_WA_JJ Wave
+V2_WA_Q Wave
+V2_WA_R Wave
+V2_WA_S Wave
+V2_WA_R' Wave
+V2_WA_S' Wave
+V2_WA_P Wave
+V2_WA_T Wave
+V2_WA_QRSA
+V2_WA_QRSTA
+V3_WA_JJ Wave
+V3_WA_Q Wave
+V3_WA_R Wave
+V3_WA_S Wave
+V3_WA_R' Wave
+V3_WA_S' Wave
+V3_WA_P Wave
+V3_WA_T Wave
+V3_WA_QRSA
+V3_WA_QRSTA
+V4_WA_JJ Wave
+V4_WA_Q Wave
+V4_WA_R Wave
+V4_WA_S Wave
+V4_WA_R' Wave
+V4_WA_S' Wave
+V4_WA_P Wave
+V4_WA_T Wave
+V4_WA_QRSA
+V4_WA_QRSTA
+V5_WA_JJ Wave
+V5_WA_Q Wave
+V5_WA_R Wave
+V5_WA_S Wave
+V5_WA_R' Wave
+V5_WA_S' Wave
+V5_WA_P Wave
+V5_WA_T Wave
+V5_WA_QRSA
+V5_WA_QRSTA
+V6_WA_JJ Wave
+V6_WA_Q Wave
+V6_WA_R Wave
+V6_WA_S Wave
+V6_WA_R' Wave
+V6_WA_S' Wave
+V6_WA_P Wave
+V6_WA_T Wave
+V6_WA_QRSA
+V6_WA_QRSTA
+Class
